@@ -1,20 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Advanced Calculator Application
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/1f9ff012-4caa-4f84-a98b-1dc2ef82ff9e
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+A sophisticated, feature-rich calculator application built with modern web technologies, featuring advanced mathematical operations, responsive design, and professional-grade functionality.\n\n## Overview\n\nThis calculator application provides a complete solution for mathematical calculations with an intuitive interface and comprehensive feature set. Built with TypeScript, React, and modern web standards.\n\n## Features\n\n- **Basic Operations**: Addition, subtraction, multiplication, division\n- **Advanced Functions**: Trigonometric, logarithmic, and exponential calculations\n- **Memory Functions**: Store and recall values\n- **History**: Track calculation history\n- **Responsive Design**: Works seamlessly on all devices\n- **Dark Mode**: Eye-friendly theme option\n- **Keyboard Support**: Full keyboard input support\n- **Precision**: High-precision decimal calculations\n\n## Technology Stack\n\n- **Frontend**: React.js with TypeScript\n- **Build Tool**: Vite for fast development\n- **Styling**: CSS3 with responsive design\n- **Testing**: Jest and React Testing Library\n\n## Project Structure\n\n```\ncalculator-latest/\n├── src/\n│   ├── components/           # React components\n│   ├── styles/              # CSS styles\n│   ├── utils/               # Utility functions\n│   ├── App.tsx              # Main component\n│   └── index.tsx            # Entry point\n├── public/                  # Static assets\n├── package.json             # Dependencies\n└── README.md                # This file\n```\n\n## Getting Started\n\n### Prerequisites\n\n- Node.js 16+ and npm/yarn\n\n### Installation\n\n```bash\n# Clone repository\ngit clone https://github.com/garudadigitalsolutions2026-pixel/calculator-latest.git\ncd calculator-latest\n\n# Install dependencies\nnpm install\n\n# Start development server\nnpm run dev\n```\n\n## Usage\n\n### Basic Calculator Operations\n\n1. **Enter Numbers**: Click buttons or use keyboard\n2. **Select Operation**: Click operation buttons (+, -, *, /)\n3. **Calculate**: Press equals or Enter\n4. **Clear**: Press Clear or C key\n\n### Advanced Features\n\n- **Scientific Mode**: Access advanced functions\n- **Memory Functions**: M+ (add), M- (subtract), MR (recall), MC (clear)\n- **History**: View previous calculations\n- **Keyboard Shortcuts**: Full support for standard calculator keys\n\n## Performance\n\n- Lightning-fast calculations\n- Instant UI response\n- Optimized bundle size\n\n## Testing\n\n```bash\n# Run tests\nnpm run test\n\n# Coverage\nnpm run test:coverage\n```\n\n## Building for Production\n\n```bash\n# Build\nnpm run build\n\n# Preview production build\nnpm run preview\n```\n\n## Contributing\n\nContributions are welcome! Please:\n\n1. Fork the repository\n2. Create a feature branch\n3. Commit changes\n4. Push to branch\n5. Submit a pull request\n\n## License\n\nMIT License - See LICENSE for details\n\n## Support\n\n- **GitHub**: [garudadigitalsolutions2026-pixel](https://github.com/garudadigitalsolutions2026-pixel)\n- **Issues**: [Report Issues](https://github.com/garudadigitalsolutions2026-pixel/calculator-latest-/issues)\n\n---\n\n**Built with precision and modern web technologies.**\n\n*Last updated: May 2026*
